@@ -25,3 +25,8 @@ http://localhost:5500
 
 
 Note:- Install the Live Server extension in VS Code for better efficiency. 
+
+
+
+Output:
+![Output](https://github.com/w4lk3r07/CodeClauseInternship_ChatApp_Using_Websockets/assets/90297892/2b927da9-30a7-4a64-963e-2b982cd7ebf0)
