@@ -1,6 +1,7 @@
 Created a chat app using the socket.io library.
 
 How to setup:
+
 1> First, download the project code and open the folder in any IDE. Use VS Code Preferably.
 
 2> In terminal, initialize the node package by typing in the command:
